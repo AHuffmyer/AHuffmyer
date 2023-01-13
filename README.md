@@ -10,7 +10,6 @@ View my CV, Google Scholar page, and other links on my [LinkTree here](https://l
 
 ![BusinessCard](https://user-images.githubusercontent.com/32178010/194728613-8a7e0088-ba92-49d9-91b1-7621e8847004.jpg)
 
+My history of GitHub Activity:
 
-
-
-
+![contributions_git](https://user-images.githubusercontent.com/32178010/212256315-cfdd52b7-e2b9-4cdf-b2c7-c032a6e6ca82.png)
