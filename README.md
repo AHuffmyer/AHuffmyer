@@ -8,8 +8,8 @@ I use [open lab notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
  
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/ashuffmyer)
 
-<img src="https://user-images.githubusercontent.com/32178010/194728613-8a7e0088-ba92-49d9-91b1-7621e8847004.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/32178010/194728613-8a7e0088-ba92-49d9-91b1-7621e8847004.jpg" width="400">
 
 My GitHub Activity:
 
-<img src="https://user-images.githubusercontent.com/32178010/212256315-cfdd52b7-e2b9-4cdf-b2c7-c032a6e6ca82.png" width="300">
+<img src="[https://user-images.githubusercontent.com/32178010/212256315-cfdd52b7-e2b9-4cdf-b2c7-c032a6e6ca82.png](https://user-images.githubusercontent.com/32178010/212772837-d368af93-aa94-4b3d-b9c1-410ab0a25b57.png)" width="400">
