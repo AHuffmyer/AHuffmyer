@@ -12,4 +12,4 @@ View my CV, Google Scholar page, and other links on my [LinkTree here](https://l
 
 My GitHub Activity:
 
-<img src="https://user-images.githubusercontent.com/32178010/212256315-cfdd52b7-e2b9-4cdf-b2c7-c032a6e6ca82.png" width="400">
+<img src="https://user-images.githubusercontent.com/32178010/219412864-39783e86-89ac-4617-b29f-ce0ebf685b6e.png" width="400">
