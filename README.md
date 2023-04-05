@@ -9,7 +9,3 @@ I use [open lab notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/ashuffmyer)
 
 <img src="https://user-images.githubusercontent.com/32178010/194728613-8a7e0088-ba92-49d9-91b1-7621e8847004.jpg" width="400">
-
-My GitHub Activity:
-
-<img src="https://user-images.githubusercontent.com/32178010/219412864-39783e86-89ac-4617-b29f-ce0ebf685b6e.png" width="400">
