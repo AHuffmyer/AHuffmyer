@@ -1,8 +1,7 @@
 # Ariana S. Huffmyer, PhD
-*National Science Foundation Ocean Sciences Postdoctoral Fellow*    
-*University of Washington eScience Data Science Postdoctoral Fellow*  
+*Research Scientist, University of Washington*   
 
-I am a postdoctoral researcher studying the effects of climate change on coral physiology and early life history, with a particular interest in the formation of coral-algal symbiosis during coral development.
+I am a research scientist studying the effects of climate change on marine invertebrate physiology and early life history, with a particular interest in the formation of coral-algal symbiosis during coral development.
 
 I use [open lab notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) and GitHub to make data and code openly accessible. 
  
