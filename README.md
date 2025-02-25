@@ -7,4 +7,5 @@ I use [open lab notebooks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/)
  
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/ashuffmyer)
 
-<img src="https://user-images.githubusercontent.com/32178010/194728613-8a7e0088-ba92-49d9-91b1-7621e8847004.jpg" width="400">
+![BusinessCard](https://github.com/user-attachments/assets/f3f13f75-84b3-4fc1-85d2-9f338869a334)
+
